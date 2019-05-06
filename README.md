@@ -17,3 +17,9 @@ Written in JavaFx Car Computer System
 <etc...
 
 Used daily on RaspberryPi 3 in car
+
+https://www.youtube.com/watch?v=1X2FYoDpllM
+
+https://www.youtube.com/watch?v=dzNKOmK6VvM
+
+https://www.youtube.com/watch?v=1X2FYoDpllM
